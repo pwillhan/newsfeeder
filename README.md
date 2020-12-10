@@ -15,3 +15,8 @@ run
 ```
 make dev
 ```
+
+## youtube
+
+- REST API with Go / Gin + Some Simple Tests
+  https://www.youtube.com/watch?v=LOn1GUsjOF4
